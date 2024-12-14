@@ -1,17 +1,15 @@
-# VCC-Generator(Valid Credit Card Generator)
-VCC-Generator is a python script that generate VCC for testing purposes only<br>
-Note:It can't be used for carting
-
-<img src="Screenshot_20220112-193931.png" height="100%" width="100%">
+# Chơi vừa thôi máy Superme
+Tool chỉ trong nội bộ, nội bộ phải lên Superme mới sử dụng đừng ăn trộm ko được gì đâu<br>
+Note: Tiền hợp đồng metamask nên nhớ phải hơn mặc định như đã nói trong Google Meet
 
 <h2>Installation</h2>
 <p>$ apt update && apt upgrade</p>
 <p>$ apt install git && apt install python3</p>
-<p>$ git clone https://github.com/spider863644/VCC-Generator</p>
+<p>$ git clone https://github.com/g2a/</p>
 <p>$ cd VCC-Generator</p>
 <p>$ python3 VCC.py</p>
 
 <h2>Credits</h2>
-<p>AnonyminHack5<br>
-Spider Anongreyhat</p>
-<h3>Follow me on github for more tools</h3>
+<p>DeepWeb<br>
+Tôi là H4x0r</p>
+<h3>Tools này dành co trang Gift Coin</h3>
