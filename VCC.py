@@ -33,14 +33,14 @@ def loop():
     os.system("figlet VCC-Generator")
     print(white)
     print(green + """
-    [+] Tool Name: Valid Credit Card Generator
-    [+] Creator: AnonyminHack5 & Spider Anongreyhat
-    [+] Team: TermuxHackz Society
-    [+] Github: https://github.com/spider863644
-    [+] Team Github: https://github.com/TermuxHackz
-    [+] WhatsApp: +2349052863644
+    [+] Tool Name: Admin H40r DeepWeb
+    [+] Creator: Darknet Pay Gift
+    [+] Team: TUT GIFT 400$ RANDOM
+    [+] Github: darkweb.tor
+    [+] Team Github: darknet.tor
+    [+] WhatsApp: +1111111111
     """ + white)
-    print(redd + "≠≠≠≠≠≠≠≠≠≠≠≠CHOOSE A CREDIT CARD NETWORK TO GENERATE≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠" + white)
+    print(redd + "≠≠≠≠≠≠≠≠≠≠≠≠CHOOSE A CREDIT CARD NETWORK TO GIFT CARD VIP SUPERME≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠≠" + white)
     print(green + """
     [1]Visa
     [2]Mastercard
@@ -129,7 +129,7 @@ def loop():
         CVV: """, cvv, """
         Expiry Date: MM:""", mm, """ YY:""",yy,  white)
     elif cc == "2":
-        #Credit Card bin for MasterCard
+        #AUTO BIN GIFT CARD RANDOM
         bin1 = 5
         bin2 = random.randrange (0, 5)
         bin3 = random.randrange(1, 8)
@@ -207,7 +207,7 @@ def loop():
         os.system("""
         cd
         rm -f -r VCC-Generator
-        git clone https://github.com/spider863644/VCC-Generator
+        git clone 
         clear""")
         print(yellow + """
         Now type the following commands
@@ -222,7 +222,7 @@ def loop():
         t.sleep(3)
         loop()
     elif cc == "J" or cc == "j":
-        os.system("xdg-open https://chat.whatsapp.com/BivW6pA9Emu9bDM2rZkaQy")
+        os.system("xdg-open ")
         exit()
     else:
         print (red + " invalid option" + white)
